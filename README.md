@@ -3,7 +3,9 @@ all documentation needed to update Ultimaker 2 with a Bigtreetech SKR v1.4 32 bi
 
 Features:
 
-- HextrudOrt Direct Drive
-- Optmimized Bed Base plate to minimize vibrations
-- 8mm Print Head Shafts
+- HextrudOrt direct drive
+- Optmimized bed base plate to minimize vibrations
+- 8mm print head shafts
+- Custom sliding blocks
 - Magnetic spring steel plate
+- Z Probe for bed mesh leveling
