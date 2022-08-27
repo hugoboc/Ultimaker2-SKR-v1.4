@@ -6,3 +6,4 @@ Features:
 - HextrudOrt Direct Drive
 - Optmimized Bed Base plate to minimize vibrations
 - 8mm Print Head Shafts
+- Magnetic spring steel plate
