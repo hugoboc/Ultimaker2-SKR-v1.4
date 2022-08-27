@@ -9,3 +9,4 @@ Features:
 - Custom sliding blocks
 - Magnetic spring steel plate
 - Z Probe for bed mesh leveling
+- Klipper firmware
